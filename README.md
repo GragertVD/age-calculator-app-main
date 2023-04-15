@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot.jpg)
+![](https://github.com/GragertVD/age-calculator-app-main/screenshot.jpg)
 
 
 ### Links
