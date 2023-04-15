@@ -49,6 +49,13 @@ document.addEventListener("DOMContentLoaded", () => {
       
     }
   });
+  inputYear.addEventListener('change', function () {
+    let Data = new Date();
+    if (inputYear.value < 0) {
+      inputYear.value = -inputYear.value;
+      inputYear.value = Data.getFullYear() - inputYear.value; 
+    }
+  });
 
   button.addEventListener('click', function () {
 
