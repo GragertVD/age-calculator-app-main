@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- telegramm - [dragert_vd](https://t.me/gragert_vd)
+- telegram - [gragert_vd](https://t.me/gragert_vd)
 

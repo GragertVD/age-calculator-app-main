@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let date = new Date(year, month - 1, day);
     let currentData = new Date();
 
-    if (!(date.getFullYear() == year && date.getMonth() == month - 1 && date.getDate() == day) || (document.getElementsByClassName('error').length) || date>currentData){
+    if (!(date.getFullYear() == year && date.getMonth() == month - 1 && date.getDate() == day) || (document.getElementsByClassName('error').length) || date>currentData || year<0){
       inputDay.parentElement.classList.add("error");
       inputDay.nextElementSibling.innerHTML = "Must be a valid date"
       inputMonth.parentElement.classList.add("error");

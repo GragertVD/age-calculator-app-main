@@ -82,7 +82,7 @@ $widthMobile: 375px;
       scale: 0.95;
       filter: drop-shadow(0 0 0.3rem $colorSmokeyGrey);
     }
-    @media(any-hover: hover){
+    @media(hover: hover){
       &:hover{
         background-color: $colorOffBlack;
       }
