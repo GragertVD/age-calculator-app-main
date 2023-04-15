@@ -36,10 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL in Git: [Add solution URL here](https://github.com/GragertVD/age-calculator-app-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://age-calculator-app-main-gragert.vercel.app/](https://age-calculator-app-main-gragert.vercel.app/)
 
 ## Author
 
-- telegramm - [Add your name here](https://t.me/gragert_vd)
+- telegramm - [dragert_vd](https://t.me/gragert_vd)
 
